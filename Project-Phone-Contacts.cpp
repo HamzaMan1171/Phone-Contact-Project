@@ -1,3 +1,7 @@
+// Course: CS 141, Spring 2023.
+// System: Windows
+// Author: Hamza Mansoor
+
 #include <iostream>
 #include <vector>
 #include <string>
